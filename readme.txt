@@ -1,2 +1,3 @@
-Hi Atmecs
-Lanco hills
+Hello git
+
+git is good version control tool
